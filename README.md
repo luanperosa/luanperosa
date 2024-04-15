@@ -5,5 +5,4 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React project
-- 🌱 I’m currently learning PWA
 - 📫 How to reach me: send me a message on my linkedin
